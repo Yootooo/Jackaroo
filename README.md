@@ -34,7 +34,7 @@ Built with 💡 and a lot of passion by a 4-member developer team:
 
 - **Youssef Mostafa** – [LinkedIn](https://www.linkedin.com/in/yootoo)
 - **Mohammad Waleid** – [LinkedIn](https://www.linkedin.com/in/mohamed-omar-29b175295)
-- **Mohammad Shams** – [LinkedIn](https://www.linkedin.com/in/mohamedshamss/)
+- **Mohammad Shams** – [LinkedIn](https://www.linkedin.com/in/mohamedshams01/)
 - **Youssef Tarek** – [LinkedIn](https://www.linkedin.com/in/youssef-tarek-44118b22a/)
 
 ---
